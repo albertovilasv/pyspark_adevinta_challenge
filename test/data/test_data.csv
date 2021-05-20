@@ -1,0 +1,101 @@
+platform;date;channel_name;bidder;buyer;device_type_name;format_name;transaction_type_name;revenue_resold;impressions_resold;clicks
+ams;2021-03-01;Programmatic;25822;;Connected TV;160x600 (Wide Skyscraper);Open auction;0.003264916683622;1.0;0.0
+ams;2021-03-01;Programmatic;25822;;Connected TV;160x600 (Wide Skyscraper);Open auction;0.0;0.0;0.0
+ams;2021-03-01;Programmatic;25822;;Connected TV;300x250 (Medium Rectangle);Open auction;0.0023566175242500003;2.0;0.0
+ams;2021-03-01;Programmatic;25822;;Connected TV;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.009216622166785001;6.0;0.0
+ams;2021-03-01;Programmatic;25822;;Connected TV;970x250 (Billboard);Open auction;0.001245199728399;1.0;0.0
+ams;2021-03-01;Programmatic;25822;;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.0012406515;1.0;0.0
+ams;2021-03-01;Programmatic;25822;;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.002685019630502;2.0;0.0
+ams;2021-03-01;Programmatic;25822;;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.0035246909114999996;1.0;0.0
+ams;2021-03-01;Programmatic;25822;;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.0036926610638830003;1.0;0.0
+ams;2021-03-01;Programmatic;25822;;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.0040317997682159995;6.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.013595059137;1.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.013595059137;3.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.014892780606;1490.0;1.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.014961429989;1.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.016605706777;1.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.016721500916999997;1.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.021740349784999998;2.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.02181892438;2.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.021858625228;2.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.022511207917000002;6.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.022526095734999998;2.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.024286993764000002;1.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.024447451357999996;2.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.025562383506;2.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.025874200583;2.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.027190118274;2.0;0.0
+axb;2021-03-01;Direct;8199;90472;;300x250 (Medium Rectangle);Direct guaranteed;0.027932854971999998;5.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.00127;2.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001294;2.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001303;2.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001326;2.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001334;2.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.00143;1.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001475;2.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001555;3.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001559;3.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001561;3.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001565;3.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001571;3.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001574;3.0;0.0
+gdx;2021-03-01;Programmatic;14037;290;;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001577;3.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009108736810999997;3.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009111331474000001;8.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009301139277;2.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009321473862000001;14.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009456242289999998;2.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009521465350000001;1.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009540896812;8.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009554389956;2.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009562319775999998;13.0;0.0
+ipv;2021-03-01;Programmatic;8159;290;;Unknown;Open auction;0.009645544124999999;3.0;0.0
+onx;2021-03-01;Programmatic;8159;822;Desktop & laptop;300x600 (Half Page);Open auction;0.003666;2.0;0.0
+onx;2021-03-01;Programmatic;8159;822;Desktop & laptop;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.001551;2.0;0.0
+onx;2021-03-01;Programmatic;8159;822;Desktop & laptop;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;822;Desktop & laptop;970x250 (Billboard);Open auction;0.002855;1.0;0.0
+onx;2021-03-01;Programmatic;8159;822;Mobile;300x250 (Medium Rectangle);Open auction;9.229999999999999E-4;1.0;0.0
+onx;2021-03-01;Programmatic;8159;822;Mobile;300x600 (Half Page);Open auction;0.002073;1.0;0.0
+onx;2021-03-01;Programmatic;8159;822;Tablet;160x600 (Wide Skyscraper);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;822;Tablet;300x250 (Medium Rectangle);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;822;Tablet;300x600 (Half Page);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;829;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.001327;1.0;0.0
+onx;2021-03-01;Programmatic;8159;829;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;829;Desktop & laptop;300x250 (Medium Rectangle);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;829;Desktop & laptop;300x600 (Half Page);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;Redvertisment;Desktop & laptop;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.0025;5.0;0.0
+onx;2021-03-01;Programmatic;8159;Redvertisment;Desktop & laptop;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;Redvertisment;Desktop & laptop;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;5.0E-4;1.0;0.0
+onx;2021-03-01;Programmatic;8159;Redvertisment;Mobile;160x600 (Wide Skyscraper);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;Redvertisment;Mobile;300x250 (Medium Rectangle);Open auction;0.001636;2.0;0.0
+onx;2021-03-01;Programmatic;8159;Redvertisment;Mobile;300x250 (Medium Rectangle);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;Redvertisment;Mobile;300x250 (Medium Rectangle);Open auction;6.69E-4;1.0;0.0
+onx;2021-03-01;Programmatic;8159;Redvertisment;Mobile;300x600 (Half Page);Open auction;0.00125;1.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - Rauch - EDI - DV360 - DACH;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - Rauch - EDI - DV360 - DACH;Tablet;160x600 (Wide Skyscraper);Open auction;0.001212;2.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - Rauch - EDI - DV360 - DACH;Tablet;300x600 (Half Page);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - Signa - EDI - DV360 - DACH;Mobile;300x600 (Half Page);Open auction;0.007324;3.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x250 (Medium Rectangle);Open auction;0.005157;4.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x250 (Medium Rectangle);Open auction;0.018271;16.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x250 (Medium Rectangle);Open auction;0.022213;28.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x250 (Medium Rectangle);Open auction;0.024176;24.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x250 (Medium Rectangle);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x600 (Half Page);Open auction;0.002833;1.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x600 (Half Page);Open auction;0.00525;3.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x600 (Half Page);Open auction;0.005656;2.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x600 (Half Page);Open auction;0.012097;4.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x600 (Half Page);Open auction;0.012264;7.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x600 (Half Page);Open auction;0.01575;9.0;0.0
+onx;2021-03-01;Programmatic;8159;TP - SMEC - TRA - DBM - DACH;Desktop & laptop;300x600 (Half Page);Open auction;0.086375;47.0;0.0
+onx;2021-03-01;Programmatic;8178;1153;Desktop & laptop;300x250 (Medium Rectangle);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8178;1153;Mobile;300x250 (Medium Rectangle);Open auction;0.004658;1.0;0.0
+onx;2021-03-01;Programmatic;8178;1153;Mobile;300x250 (Medium Rectangle);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8178;1153;Mobile;300x600 (Half Page);Open auction;0.005626;1.0;0.0
+onx;2021-03-01;Programmatic;8178;1153;Mobile;300x600 (Half Page);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8178;1153;Tablet;300x250 (Medium Rectangle);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8178;1153;Tablet;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8178;1401;Desktop & laptop;160x600 (Wide Skyscraper);Open auction;0.008097;1.0;0.0
+onx;2021-03-01;Programmatic;8178;1401;Desktop & laptop;300x600 (Half Page);Open auction;0.008097;1.0;0.0
+onx;2021-03-01;Programmatic;8178;1401;Desktop & laptop;300x600 (Half Page);Open auction;0.0;0.0;0.0
+onx;2021-03-01;Programmatic;8178;1401;Desktop & laptop;728x90 (Leaderboard - Mobile Banner Landscape);Open auction;0.0;0.0;0.0

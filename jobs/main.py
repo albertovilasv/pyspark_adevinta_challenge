@@ -6,17 +6,6 @@ import zipfile
 from os import mkdir, getcwd
 
 
-def init_spark():
-    """
-    Function that create the session in Spark
-    :output (object): spark session
-    :output (object): spark context
-    """
-    spark = SparkSession.builder.appName("Adevinta_Challenge").getOrCreate()
-    sc = spark.sparkContext
-    return spark, sc
-
-
 def get_schema():
     """
     Function that returns the schema for the csv input data
@@ -103,6 +92,17 @@ def get_olap_cube(df):
     return df_final
 
 
+def init_spark():
+    """
+    Function that create the session in Spark
+    :output (object): spark session
+    :output (object): spark context
+    """
+    spark = SparkSession.builder.appName("Adevinta_Challenge").getOrCreate()
+    sc = spark.sparkContext
+    return spark, sc
+    
+
 def unzip_and_get_file_paths():
     """
     Function that unzip the file input.zip and return the path to the .csv files
@@ -145,17 +145,26 @@ def read_data_and_concat(spark, spark_context, files_path, list_paths):
     return df
 
 
-def main():
-    spark, sc = init_spark()
-    list_paths, files_path = unzip_and_get_file_paths()
-    df = read_data_and_concat(spark,sc,files_path,list_paths)
+def process_logic(df):
+    """
+    Function that contains the main process logic
+    :input df(object): dataframe to process
+    :output (object): dataframe processed
+    """
     df = df.distinct()
     df = df.na.drop()
     df = replace_device(df)
     df = replace_channel(df)
     df = df.withColumn("CTR",(col("clicks")/col("impressions_resold"))*100)
     df = df.selectExpr("date as Date","country as Country","device_type_name as Device","channel_name as Channel","revenue_resold as Revenue","CTR")
-    res = get_olap_cube(df)
+    return get_olap_cube(df)
+
+
+def main():
+    spark, sc = init_spark()
+    list_paths, files_path = unzip_and_get_file_paths()
+    df = read_data_and_concat(spark,sc,files_path,list_paths)
+    res = process_logic(df)
     res.write.parquet("output")
 
 
